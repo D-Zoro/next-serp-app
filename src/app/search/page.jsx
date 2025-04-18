@@ -59,7 +59,7 @@ export default function ResultsPage() {
             />
           </Link>
           
-          <form action="/result" method="get" className="flex-grow max-w-2xl">
+          <form action="/search" method="get" className="flex-grow max-w-2xl">
             <input
               type="text"
               name="q"
